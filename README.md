@@ -1,6 +1,7 @@
 # carton
 
-for mockup and anything
+for mockup and anything  
+inspired by http://www.blokkfont.com/
 
 ![demo.png](demo.png)
 

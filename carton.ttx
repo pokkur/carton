@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="3.15">
+
+  <OS_2>
+    <!-- The fields 'usFirstCharIndex' and 'usLastCharIndex'
+         will be recalculated by the compiler -->
+    <version value="4"/>
+    <xAvgCharWidth value="512"/>
+    <usWeightClass value="400"/>
+    <usWidthClass value="5"/>
+    <fsType value="00000000 00000000"/>
+    <ySubscriptXSize value="665"/>
+    <ySubscriptYSize value="716"/>
+    <ySubscriptXOffset value="0"/>
+    <ySubscriptYOffset value="143"/>
+    <ySuperscriptXSize value="665"/>
+    <ySuperscriptYSize value="716"/>
+    <ySuperscriptXOffset value="0"/>
+    <ySuperscriptYOffset value="491"/>
+    <yStrikeoutSize value="51"/>
+    <yStrikeoutPosition value="265"/>
+    <sFamilyClass value="0"/>
+    <panose>
+      <bFamilyType value="2"/>
+      <bSerifStyle value="0"/>
+      <bWeight value="5"/>
+      <bProportion value="9"/>
+      <bContrast value="0"/>
+      <bStrokeVariation value="0"/>
+      <bArmStyle value="0"/>
+      <bLetterForm value="0"/>
+      <bMidline value="0"/>
+      <bXHeight value="0"/>
+    </panose>
+    <ulUnicodeRange1 value="00000000 00000000 00000000 00000001"/>
+    <ulUnicodeRange2 value="11101000 11001111 00000000 00000000"/>
+    <ulUnicodeRange3 value="00000000 00000000 00000000 00111111"/>
+    <ulUnicodeRange4 value="00000000 00000000 00000000 00000000"/>
+    <achVendID value="    "/>
+    <fsSelection value="00000000 10000000"/>
+    <usFirstCharIndex value="33"/>
+    <usLastCharIndex value="65532"/>
+    <sTypoAscender value="819"/>
+    <sTypoDescender value="-205"/>
+    <sTypoLineGap value="92"/>
+    <usWinAscent value="820"/>
+    <usWinDescent value="0"/>
+    <ulCodePageRange1 value="00000000 00010110 00000000 00000000"/>
+    <ulCodePageRange2 value="00000000 00000000 00000000 00000000"/>
+    <sxHeight value="820"/>
+    <sCapHeight value="820"/>
+    <usDefaultChar value="0"/>
+    <usBreakChar value="32"/>
+    <usMaxContext value="1"/>
+  </OS_2>
+
+</ttFont>

@@ -7,6 +7,10 @@ inspired by http://www.blokkfont.com/
 
 ## usage
 
+```command
+npm i carton-font
+```
+
 ```css
 @font-face {
     font-family: carton;

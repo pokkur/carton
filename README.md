@@ -1,5 +1,8 @@
 # carton
 
+[![npm version](https://badge.fury.io/js/carton-font.svg)](https://badge.fury.io/js/carton-font)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 For Mockup and Anything
 inspired by http://www.blokkfont.com/
 

@@ -1,6 +1,6 @@
 # carton
 
-for mockup and anything  
+For Mockup and Anything
 inspired by http://www.blokkfont.com/
 
 ![demo.png](demo.png)
@@ -8,7 +8,7 @@ inspired by http://www.blokkfont.com/
 ## usage
 
 ```command
-npm i carton-font
+npm install carton-font
 ```
 
 ```css

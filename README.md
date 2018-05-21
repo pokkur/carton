@@ -24,6 +24,7 @@ p {
     font-family: carton;
     color: #FFD900;
     letter-spacing: -1px;
+}
 ```
 
 ```html
